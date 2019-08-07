@@ -1,0 +1,17 @@
+nav {
+  width: 20px; }
+
+.classeQueNaoExiste {
+  background-color: limegreen;
+  color: black;
+  font-size: 10pt; }
+
+body {
+  background-color: #d11c1c;
+  border: 2px solid limegreen;
+  margin: 10px 20px 30px 40px; }
+
+nav {
+  background-color: limegreen; }
+
+/*# sourceMappingURL=styles.css.map */

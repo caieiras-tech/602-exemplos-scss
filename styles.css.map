@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AASA,GAAG;EACC,KAAK,EAAE,IAAuB;;ACPlC,mBAAmB;EACf,gBAAgB,ECEP,SAAS;EDDlB,KAAK,ECAD,KAAK;EDCT,SAAS,EAAE,IAAI;;AENnB,IAAI;EACA,gBAAgB,EDCX,OAAO;ECAZ,MAAM,EDCM,mBAAmB;ECA/B,MAAM,EDCI,mBAAmB;;AEJjC,GAAG;EACC,gBAAgB,EFKP,SAAS",
+"sources": ["static/_funcoes.scss","static/_carrossel.scss","static/_variaveis.scss","static/_footer.scss","static/_navbar.scss"],
+"names": [],
+"file": "styles.css"
+}

@@ -1,0 +1,12 @@
+
+
+
+$vermelho: red;
+
+@function calcTamanho($a, $b){
+    @return ($a - $b);
+}
+
+nav{
+    width: calcTamanho(40px, 20px);
+}
